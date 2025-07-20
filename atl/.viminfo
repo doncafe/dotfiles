@@ -1,0 +1,1806 @@
+# Vim 9.0 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/alias
+
+# Último Sustitución Patrón de búsqueda:
+~MSle0&^
+
+# Última cadena de sustitución:
+$#
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q!
+|2,0,1748835744,,"q!"
+:x
+|2,0,1738952186,,"x"
+:122
+|2,0,1738803715,,"122"
+:w
+|2,0,1738803661,,"w"
+:128,134s/^/#/g
+|2,0,1738196306,,"128,134s/^/#/g"
+:q
+|2,0,1738185298,,"q"
+:92t112
+|2,0,1734848191,,"92t112"
+:set paste
+|2,0,1734157878,,"set paste"
+:qall
+|2,0,1733792450,,"qall"
+:pwd
+|2,0,1732920071,,"pwd"
+:195t205
+|2,0,1731987198,,"195t205"
+:194t204
+|2,0,1731987188,,"194t204"
+:193t203
+|2,0,1731987018,,"193t203"
+:138t144
+|2,0,1730749142,,"138t144"
+:137t143
+|2,0,1730749131,,"137t143"
+:18t15
+|2,0,1730691258,,"18t15"
+:saveas ~/repos/diplomado_hpc/MPI/practicas/idntify_ex.c
+|2,0,1730690550,,"saveas ~/repos/diplomado_hpc/MPI/practicas/idntify_ex.c"
+:38,48s/^/#/g
+|2,0,1729210185,,"38,48s/^/#/g"
+:129,138s/#//g
+|2,0,1728673912,,"129,138s/#//g"
+:129,138s/^/#/g
+|2,0,1728673802,,"129,138s/^/#/g"
+:set nu
+|2,0,1728673781,,"set nu"
+:set nonumber
+|2,0,1727240282,,"set nonumber"
+:296t301
+|2,0,1725567314,,"296t301"
+:289t297
+|2,0,1725567285,,"289t297"
+:PluginInstall
+|2,0,1724804615,,"PluginInstall"
+:r configure.wps_4.5.ok
+|2,0,1723581094,,"r configure.wps_4.5.ok"
+:W
+|2,0,1723490987,,"W"
+:639m$
+|2,0,1723161791,,"639m$"
+:r configure.wrf_4.5.2._66.ok
+|2,0,1723153904,,"r configure.wrf_4.5.2._66.ok"
+:e configure.wrf_4.5.2._66.ok
+|2,0,1723153764,,"e configure.wrf_4.5.2._66.ok"
+:18t.
+|2,0,1723067186,,"18t."
+:Q
+|2,0,1722995711,,"Q"
+:set nonu
+|2,0,1722981750,,"set nonu"
+:124,159d
+|2,0,1722981672,,"124,159d"
+:7t11
+|2,0,1719437582,,"7t11"
+:282t291
+|2,0,1717623592,,"282t291"
+:24t28
+|2,0,1714617219,,"24t28"
+:saveas alertamientos_meteogramas_precipitacion_v4.sh
+|2,0,1714104097,,"saveas alertamientos_meteogramas_precipitacion_v4.sh"
+:14m11
+|2,0,1714102577,,"14m11"
+:19m9
+|2,0,1714102393,,"19m9"
+:87
+|2,0,1713307891,,"87"
+:11t114
+|2,0,1712594097,,"11t114"
+:tabprevious
+|2,0,1712465480,,"tabprevious"
+:6t8
+|2,0,1712453306,,"6t8"
+:tabfirst
+|2,0,1712444441,,"tabfirst"
+:tab first
+|2,0,1712441285,,"tab first"
+:tabnext
+|2,0,1712439583,,"tabnext"
+:tabnew
+|2,0,1712439217,,"tabnew"
+:tab 1
+|2,0,1712439190,,"tab 1"
+:tabnew ~/repos/bash/utils/instalacion_nodos_actualizados.txt
+|2,0,1712439177,,"tabnew ~/repos/bash/utils/instalacion_nodos_actualizados.txt"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/alias
+|2,1,1747174209,47,"alias"
+?/chacmool
+|2,1,1738906276,47,"chacmool"
+?/pronosti
+|2,1,1738803645,47,"pronosti"
+?/amate
+|2,1,1738781764,47,"amate"
+? ^
+|2,1,1738196306,,"^"
+?/pronosticos
+|2,1,1738185285,47,"pronosticos"
+?/obiwan
+|2,1,1734848202,47,"obiwan"
+?/omete
+|2,1,1734848169,47,"omete"
+?/cluster
+|2,1,1734846815,47,"cluster"
+?/xback
+|2,1,1733786651,47,"xback"
+? @$
+|2,1,1733710423,,"@$"
+?/maestro
+|2,1,1733244684,47,"maestro"
+??Mercator
+|2,1,1733183049,63,"Mercator"
+??mercator
+|2,1,1733183034,63,"mercator"
+?/gea-new
+|2,1,1731987006,47,"gea-new"
+?/gea
+|2,1,1731535330,47,"gea"
+?/centos
+|2,1,1731194729,47,"centos"
+?/tlaloc
+|2,1,1730749114,47,"tlaloc"
+?/git
+|2,1,1729465039,47,"git"
+?/gea-vm
+|2,1,1729210769,47,"gea-vm"
+?/quetzal.atmosfera
+|2,1,1729193537,47,"quetzal.atmosfera"
+?/ometeotl
+|2,1,1729106509,47,"ometeotl"
+?/beetle
+|2,1,1729038180,47,"beetle"
+? #
+|2,1,1728673912,,"#"
+?/jupyter
+|2,1,1728672003,47,"jupyter"
+?/terminal
+|2,1,1728283747,47,"terminal"
+?/zion
+|2,1,1726005418,47,"zion"
+?/quetzal
+|2,1,1725567242,47,"quetzal"
+?/debian
+|2,1,1724224360,47,"debian"
+?/OPCION
+|2,1,1723580183,47,"OPCION"
+?/es
+|2,1,1723249987,47,"es"
+?/latam
+|2,1,1723249972,47,"latam"
+? \<curl\>
+|2,1,1723067936,,"\\<curl\\>"
+?/amoxtli
+|2,1,1718755277,47,"amoxtli"
+?/conda
+|2,1,1715046152,47,"conda"
+?/chalchi
+|2,1,1713994098,47,"chalchi"
+?/Diplomado
+|2,1,1712696815,47,"Diplomado"
+?/clush
+|2,1,1712613981,47,"clush"
+? \<Para\>
+|2,1,1712435560,,"\\<Para\\>"
+?/226
+|2,1,1712034675,47,"226"
+?/debianita
+|2,1,1711422195,47,"debianita"
+? ^0
+|2,1,1710983198,,"^0"
+? :00:00
+|2,1,1710982928,,":00:00"
+? ":00:00"
+|2,1,1710982919,,"\":00:00\""
+?/tlaloch
+|2,1,1709682030,47,"tlaloch"
+?/run
+|2,1,1709352057,47,"run"
+?/jamatu
+|2,1,1709224354,47,"jamatu"
+?/grid
+|2,1,1709224345,47,"grid"
+??EPA
+|2,1,1709174632,63,"EPA"
+?/ubuntu
+|2,1,1708751920,47,"ubuntu"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de depuración (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	LINE	0
+	Host pronosticos
+	   ProxyCommand ssh root@ometeotl.atmosfera.unam.mx -W %h:%p 2>/dev/null
+	   Hostname 172.17.123.102
+	   User root
+	   Port 9022
+	   ServerAliveInterval 120
+	   IdentitiesOnly=yes
+|3,0,0,1,7,0,1738196262,"Host pronosticos","   ProxyCommand ssh root@ometeotl.atmosfera.unam.mx -W %h:%p 2>/dev/null","   Hostname 172.17.123.102","   User root","   Port 9022","   ServerAliveInterval 120","   IdentitiesOnly=yes"
+"1	LINE	0
+	                # writer.writerow([hora, valor])
+	                # horario de verano
+|3,0,1,1,2,0,1737502390,"                # writer.writerow([hora, valor])","                # horario de verano"
+"2	LINE	0
+	vim .bashrc
+|3,0,2,1,1,0,1736552774,"vim .bashrc"
+"3	LINE	0
+	
+|3,0,3,1,1,0,1736552403,""
+"4	LINE	0
+	
+|3,0,4,1,1,0,1736552402,""
+"5	LINE	0
+	conda activate wrf
+|3,0,5,1,1,0,1736552193,"conda activate wrf"
+"6	LINE	0
+	mamba create -n wrf python=3.13
+|3,0,6,1,1,0,1736552191,"mamba create -n wrf python=3.13"
+"7	LINE	0
+	rm ./Miniforge3-24.11.2-1-Linux-x86_64.sh -b -f -p ~
+|3,0,7,1,1,0,1736550900,"rm ./Miniforge3-24.11.2-1-Linux-x86_64.sh -b -f -p ~"
+"8	LINE	0
+	#wget -c https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh
+|3,0,8,1,1,0,1736550857,"#wget -c https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh"
+"9	LINE	0
+	    """
+	    Print a formatted summary of radiation variables.
+	    
+	    Parameters:
+	    df (pandas.DataFrame): DataFrame containing radiation variable information
+	    """
+|3,0,9,1,6,0,1736227147,"    \"\"\"","    Print a formatted summary of radiation variables.","    ","    Parameters:","    df (pandas.DataFrame): DataFrame containing radiation variable information","    \"\"\""
+"q	CHAR	0
+	
+|3,0,26,0,1,0,1728777735,""
+"x	CHAR	0
+	��a
+|3,0,33,0,1,0,1723273898,"��a"
+""-	CHAR	0
+	x
+|3,1,36,0,1,0,1738803721,"x"
+
+# Marcas en el archivo:
+'0  1  0  ~/repos/hpc/MIGRACION_CLUSTER_DEBIAN_PRONOSTICOS/graficadoAlertamiento
+|4,48,1,0,1748835744,"~/repos/hpc/MIGRACION_CLUSTER_DEBIAN_PRONOSTICOS/graficadoAlertamiento"
+'1  78  0  ~/.bashrc
+|4,49,78,0,1747174271,"~/.bashrc"
+'2  1  0  ~/.config/nushell/config.nu
+|4,50,1,0,1743996334,"~/.config/nushell/config.nu"
+'3  79  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,51,79,0,1740267918,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+'4  1  0  /etc/network/interfaces
+|4,52,1,0,1739908004,"/etc/network/interfaces"
+'5  26  23  ~/.bashrc
+|4,53,26,23,1738952186,"~/.bashrc"
+'6  26  23  ~/.bashrc
+|4,54,26,23,1738952186,"~/.bashrc"
+'7  88  5  ~/.ssh/config
+|4,55,88,5,1738906293,"~/.ssh/config"
+'8  122  25  ~/.ssh/config
+|4,56,122,25,1738803726,"~/.ssh/config"
+'9  122  25  ~/.ssh/config
+|4,57,122,25,1738803726,"~/.ssh/config"
+
+# Lista de saltos (el más reciente va primero):
+-'  1  0  ~/repos/hpc/MIGRACION_CLUSTER_DEBIAN_PRONOSTICOS/graficadoAlertamiento
+|4,39,1,0,1748835744,"~/repos/hpc/MIGRACION_CLUSTER_DEBIAN_PRONOSTICOS/graficadoAlertamiento"
+-'  78  0  ~/.bashrc
+|4,39,78,0,1747174271,"~/.bashrc"
+-'  78  0  ~/.bashrc
+|4,39,78,0,1747174271,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1747174209,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1747174209,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1747174204,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1747174204,"~/.bashrc"
+-'  1  0  ~/.config/nushell/config.nu
+|4,39,1,0,1743996334,"~/.config/nushell/config.nu"
+-'  1  0  ~/.config/nushell/config.nu
+|4,39,1,0,1743996334,"~/.config/nushell/config.nu"
+-'  1  0  ~/.config/nushell/config.nu
+|4,39,1,0,1743996334,"~/.config/nushell/config.nu"
+-'  1  0  ~/.config/nushell/config.nu
+|4,39,1,0,1743996334,"~/.config/nushell/config.nu"
+-'  79  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,79,0,1740267918,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  79  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,79,0,1740267918,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  79  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,79,0,1740267918,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  79  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,79,0,1740267918,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  79  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,79,0,1740267918,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  79  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,79,0,1740267918,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  79  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,79,0,1740267918,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  79  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,79,0,1740267918,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  1  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,1,0,1740267906,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  1  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,1,0,1740267906,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  1  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,1,0,1740267906,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  1  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,1,0,1740267906,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  1  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,1,0,1740267906,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  1  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,1,0,1740267906,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  1  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,1,0,1740267906,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  1  0  ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+|4,39,1,0,1740267906,"~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1739908004,"/etc/network/interfaces"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  26  23  ~/.bashrc
+|4,39,26,23,1738952186,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  7  0  ~/.bashrc
+|4,39,7,0,1738952148,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1738952148,"~/.bashrc"
+-'  88  5  ~/.ssh/config
+|4,39,88,5,1738906293,"~/.ssh/config"
+-'  88  5  ~/.ssh/config
+|4,39,88,5,1738906293,"~/.ssh/config"
+-'  88  5  ~/.ssh/config
+|4,39,88,5,1738906293,"~/.ssh/config"
+-'  88  5  ~/.ssh/config
+|4,39,88,5,1738906293,"~/.ssh/config"
+-'  88  5  ~/.ssh/config
+|4,39,88,5,1738906293,"~/.ssh/config"
+-'  88  5  ~/.ssh/config
+|4,39,88,5,1738906293,"~/.ssh/config"
+-'  88  5  ~/.ssh/config
+|4,39,88,5,1738906293,"~/.ssh/config"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/repos/hpc/MIGRACION_CLUSTER_DEBIAN_PRONOSTICOS/graficadoAlertamiento
+	*	1748835743	0
+	"	1	0
+
+> ~/.bashrc
+	*	1747174258	0
+	"	78	0
+	^	26	24
+	.	26	23
+	+	5	0
+	+	23	0
+	+	24	0
+	+	41	0
+	+	5	20
+	+	27	0
+	+	40	42
+	+	39	22
+	+	6	36
+	+	24	0
+	+	39	0
+	+	40	0
+	+	4	25
+	+	24	12
+	+	24	0
+	+	23	0
+	+	36	40
+	+	27	0
+	+	29	34
+	+	22	27
+	+	6	0
+	+	30	34
+	+	4	19
+	+	22	0
+	+	31	27
+	+	42	0
+	+	37	19
+	+	38	0
+	+	42	0
+	+	41	0
+	+	32	29
+	+	33	52
+	+	6	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	22	0
+	+	6	0
+	+	7	17
+	+	6	0
+	+	7	0
+	+	34	49
+	+	6	0
+	+	7	0
+	+	25	14
+	+	26	23
+
+> ~/.config/nushell/config.nu
+	*	1743996333	0
+	"	1	0
+
+> ~/repos/curso_ometeotl/WRF/scripts/precipita_zmvm.py
+	*	1740267917	0
+	"	79	0
+
+> /etc/network/interfaces
+	*	1739908002	0
+	"	1	0
+
+> ~/.ssh/config
+	*	1738906291	0
+	"	88	5
+	^	122	26
+	.	122	25
+	+	182	0
+	+	206	11
+	+	207	26
+	+	211	3
+	+	212	3
+	+	213	3
+	+	211	3
+	+	212	3
+	+	213	3
+	+	129	3
+	+	130	3
+	+	324	12
+	+	325	0
+	+	326	9
+	+	329	0
+	+	253	0
+	+	252	4
+	+	253	0
+	+	252	3
+	+	161	0
+	+	155	25
+	+	158	17
+	+	162	30
+	+	164	11
+	+	170	31
+	+	172	11
+	+	178	26
+	+	182	3
+	+	183	3
+	+	184	3
+	+	180	11
+	+	182	3
+	+	183	3
+	+	184	28
+	+	182	3
+	+	183	3
+	+	184	3
+	+	182	3
+	+	183	3
+	+	184	3
+	+	182	3
+	+	183	3
+	+	184	3
+	+	182	3
+	+	183	3
+	+	184	3
+	+	183	3
+	+	182	3
+	+	173	11
+	+	170	31
+	+	169	0
+	+	175	0
+	+	177	0
+	+	118	0
+	+	182	3
+	+	183	3
+	+	184	26
+	+	168	24
+	+	185	10
+	+	186	26
+	+	190	3
+	+	191	3
+	+	192	3
+	+	190	3
+	+	191	3
+	+	192	3
+	+	193	0
+	+	194	25
+	+	196	3
+	+	193	12
+	+	196	3
+	+	140	9
+	+	137	0
+	+	198	11
+	+	199	25
+	+	204	11
+	+	403	18
+	+	323	27
+	+	329	26
+	+	176	28
+	+	141	0
+	+	142	28
+	+	199	26
+	+	201	0
+	+	202	0
+	+	203	0
+	+	71	0
+	+	117	0
+	+	76	32
+	+	78	26
+	+	94	4
+	+	93	4
+	+	132	11
+	+	121	0
+	+	122	0
+	+	123	24
+	+	128	0
+	+	94	31
+	+	142	46
+	+	122	25
+
+> ~/repos/ometeotl/WRF/scripts/dataset_vars.py
+	*	1738487026	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	9	0
+	+	10	0
+	+	13	0
+	+	14	0
+
+> ~/repos/pkm/DEV/tmux.md
+	*	1738483104	0
+	"	1	0
+
+> ~/repos/ometeotl/WRF/scripts/wrf-dominios.py
+	*	1738285571	0
+	"	9	22
+	^	25	24
+	.	25	23
+	+	21	15
+	+	25	23
+
+> ~/.config/i3/config
+	*	1737875282	0
+	"	252	0
+	^	250	70
+	.	164	0
+	+	119	0
+	+	166	0
+	+	221	18
+	+	243	0
+	+	1	33
+	+	2	11
+	+	3	0
+	+	16	0
+	+	12	0
+	+	16	29
+	+	12	0
+	+	16	0
+	+	163	26
+	+	164	10
+	+	360	12
+	+	268	46
+	+	265	0
+	+	218	4
+	+	219	26
+	+	221	4
+	+	220	35
+	+	221	0
+	+	220	34
+	+	164	20
+	+	221	0
+	+	98	28
+	+	106	35
+	+	114	59
+	+	162	0
+	+	161	0
+	+	162	51
+	+	249	0
+	+	250	0
+	+	263	0
+	+	221	15
+	+	164	1
+	+	165	0
+	+	221	18
+	+	265	68
+	+	99	24
+	+	156	13
+	+	154	13
+	+	156	13
+	+	154	26
+	+	156	26
+	+	154	16
+	+	156	17
+	+	155	0
+	+	30	0
+	+	29	0
+	+	30	33
+	+	1	16
+	+	2	14
+	+	4	0
+	+	31	0
+	+	30	0
+	+	31	40
+	+	249	72
+	+	250	72
+	+	263	0
+	+	249	0
+	+	250	0
+	+	263	0
+	+	262	44
+	+	267	0
+	+	253	0
+	+	254	0
+	+	255	0
+	+	256	0
+	+	253	0
+	+	254	0
+	+	255	0
+	+	256	0
+	+	243	0
+	+	247	0
+	+	244	66
+	+	246	0
+	+	249	68
+	+	250	69
+	+	164	0
+
+> ~/.bash_profile
+	*	1737660368	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	5	0
+	+	6	0
+	+	2	10
+
+> ~/extrae_serie_datos_O3_estaciones_meses.py
+	*	1737502705	0
+	"	16	18
+	^	16	19
+	.	16	18
+	+	16	59
+	+	20	25
+	+	21	23
+	+	29	26
+	+	38	36
+	+	45	0
+	+	16	18
+
+> ~/Katy/came-c5/SWDOWN/time_series_2022_05_02.py
+	*	1737421662	0
+	"	29	31
+	^	29	32
+	.	29	31
+	+	6	65
+	+	17	69
+	+	29	31
+
+> ~/Katy/came-c5/SWDOWN/time_series_swdown_24h_zmvm.py
+	*	1737351536	0
+	"	81	4
+
+> ~/repos/ICAyCC/came-c5/README.md
+	*	1736555229	0
+	"	1	0
+	^	4	39
+	.	4	128
+	+	3	53
+	+	4	24
+	+	4	153
+	+	9	128
+	+	27	2
+	+	16	99
+	+	12	62
+	+	27	0
+	+	27	30
+	+	16	112
+	+	16	0
+	+	20	45
+	+	21	37
+	+	27	3
+	+	21	49
+	+	16	0
+	+	21	39
+	+	27	0
+	+	17	39
+	+	22	0
+	+	17	0
+	+	23	31
+	+	9	16
+	+	12	66
+	+	21	58
+	+	23	60
+	+	15	73
+	+	26	46
+	+	26	30
+	+	26	17
+	+	24	14
+	+	25	18
+	+	26	0
+	+	27	0
+	+	40	2
+	+	32	17
+	+	33	0
+	+	34	104
+	+	35	103
+	+	36	9
+	+	38	16
+	+	39	17
+	+	38	0
+	+	51	2
+	+	42	73
+	+	46	9
+	+	47	0
+	+	49	42
+	+	54	0
+	+	53	92
+	+	53	0
+	+	19	22
+	+	35	88
+	+	4	38
+	+	4	128
+
+> ~/repos/ICAyCC/came-c5/.git/config
+	*	1736554384	0
+	"	1	0
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/scripts/SWDOWN_operativo_WRF_4.2.1/2022/update_csv.sh
+	*	1736471017	0
+	"	20	16
+	^	20	17
+	.	20	16
+	+	20	16
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/scripts/SWDOWN_operativo_WRF_4.2.1/2019/update_csv.sh
+	*	1736470722	0
+	"	20	17
+	^	20	18
+	.	20	17
+	+	49	56
+	+	20	17
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/scripts/SWDOWN_operativo_WRF_4.2.1/2019/recorta_csv.sh
+	*	1736470585	0
+	"	28	60
+	^	28	61
+	.	28	60
+	+	28	60
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/scripts/SWDOWN_operativo_WRF_4.2.1/ex_rad_vars.py
+	*	1736227159	0
+	"	91	4
+	^	9	13
+	.	63	0
+	+	9	12
+	+	21	0
+	+	23	0
+	+	24	0
+	+	23	0
+	+	21	0
+	+	29	0
+	+	46	0
+	+	50	0
+	+	54	0
+	+	63	0
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/scripts/Operativo_WRF_4.2.1/wrf-dominios.py
+	*	1736213901	0
+	"	110	4
+	^	108	44
+	.	108	43
+	+	7	81
+	+	89	44
+	+	103	0
+	+	108	43
+
+> ~/metview/Operativo/data.py
+	*	1735776758	0
+	"	21	51
+	^	21	52
+	.	21	52
+	+	21	81
+	+	21	52
+
+> ~/metview/Operativo/NetCDF Visualiser
+	*	1735776730	0
+	"	1	0
+
+> ~/NWPS/metview/mercator.py
+	*	1735703849	0
+	"	1	0
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/scripts/zmvm_swdown.py
+	*	1734904015	0
+	"	80	22
+	^	80	23
+	.	80	22
+	+	81	30
+	+	80	22
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/scripts/time_series_wrf_zmvm.py
+	*	1734900147	0
+	"	122	22
+	^	122	23
+	.	122	22
+	+	123	30
+	+	122	22
+
+> ~/.alias
+	*	1734898888	0
+	"	214	15
+	^	214	16
+	.	214	15
+	+	3	0
+	+	259	0
+	+	256	0
+	+	117	46
+	+	117	0
+	+	117	46
+	+	188	0
+	+	187	11
+	+	227	36
+	+	227	40
+	+	117	0
+	+	118	0
+	+	223	15
+	+	227	0
+	+	110	31
+	+	109	22
+	+	201	0
+	+	201	47
+	+	166	29
+	+	199	0
+	+	197	37
+	+	198	0
+	+	197	4
+	+	198	34
+	+	82	0
+	+	253	32
+	+	255	138
+	+	255	0
+	+	253	32
+	+	254	60
+	+	255	0
+	+	83	8
+	+	84	8
+	+	81	1
+	+	214	0
+	+	223	0
+	+	103	0
+	+	104	15
+	+	121	0
+	+	122	0
+	+	127	0
+	+	128	0
+	+	132	0
+	+	168	0
+	+	201	0
+	+	216	0
+	+	215	0
+	+	214	15
+
+> ~/.ssh/.ssh/config
+	*	1734847890	0
+	"	1	0
+
+> ~/.profile
+	*	1734157987	0
+	"	29	55
+	^	29	56
+	.	29	55
+	+	30	0
+	+	29	55
+
+> ~/.config/systemd/user/ssh-agent.service
+	*	1734157895	0
+	"	11	22
+	^	11	23
+	.	11	22
+	+	11	22
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/README.md
+	*	1733792705	0
+	"	12	21
+	^	12	22
+	.	12	21
+	+	9	86
+	+	7	39
+	+	11	97
+	+	12	21
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/namelists_d3_operativo/namelist.input
+	*	1733792448	0
+	"	22	0
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/namelists_d3_operativo/namelist.input_120h
+	*	1733792438	0
+	"	22	0
+
+> ~/repos/i3/.git/COMMIT_EDITMSG
+	*	1733790454	0
+	"	1	50
+	^	1	51
+	.	1	50
+	+	7	31
+	+	1	50
+
+> ~/repos/i3/README.md
+	*	1733789932	0
+	"	3	56
+	^	3	57
+	.	3	56
+	+	1	35
+	+	3	56
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/.git/config
+	*	1733507108	0
+	"	12	14
+	^	12	15
+	.	12	14
+	+	13	40
+	+	15	0
+	+	8	50
+	+	7	47
+	+	12	14
+
+> ~/repos/CAMe_Ensamble/CAMe-D3/.git/description
+	*	1733468188	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
+
+> ~/repos/CAMe_Ensamble/repositorio/.git/config
+	*	1733467885	0
+	"	10	21
+	^	10	22
+	.	10	21
+	+	10	21
+	+	15	0
+	+	12	14
+	+	14	26
+	+	12	12
+	+	10	21
+
+> ~/repos/python/coursera_unam/analista/AnalisisMeteorologico/notebooks/wrf_meteo/setup.py
+	*	1733297258	0
+	"	9	37
+	^	9	38
+	.	9	37
+	+	14	0
+	+	4	18
+	+	7	49
+	+	8	17
+	+	9	37
+
+> ~/.jupyter/lab/user-settings/@jupyterlab/jupyter_notebook_config.py
+	*	1733213598	0
+	"	2	131
+	^	2	132
+	.	2	131
+	+	2	131
+
+> ~/repos/CAMe_Ensamble/DominioCorona/namelist.wps
+	*	1733203016	0
+	"	1	5
+	^	40	16
+	.	40	15
+	+	46	0
+	+	37	15
+	+	40	15
+
+> ~/repos/CAMe_Ensamble/DominioCorona/4.2.1/namelist.wps
+	*	1733202970	0
+	"	1	5
+
+> ~/repos/CAMe_Ensamble/wrf_domains_opcion_A.py
+	*	1733183722	0
+	"	87	13
+	^	87	14
+	.	87	13
+	+	87	13
+
+> ~/repos/CAMe_Ensamble/wrf_domains_mercator_nested.py
+	*	1733183363	0
+	"	96	13
+	^	96	14
+	.	96	13
+	+	96	13
+
+> ~/repos/CAMe_Ensamble/wrf_domains_mercator.py
+	*	1733183051	0
+	"	78	34
+	^	91	14
+	.	91	13
+	+	91	13
+
+> ~/repos/CAMe_Ensamble/wrf_domains.py
+	*	1733181852	0
+	"	95	13
+	^	95	14
+	.	95	13
+	+	95	13
+
+> ~/repos/CAMe_Ensamble/Dominio3/perfiles_ejecucion_dominios_1_2_3_workq2/get_elapsed_time.sh
+	*	1732939249	0
+	"	12	5
+	^	12	6
+	.	12	5
+	+	50	51
+	+	12	5
+
+> ~/repos/CAMe_Ensamble/Dominio3/perfiles_ejecucion_dominios_1_2_3_workq2/convert_time_minutes.sh
+	*	1732920093	0
+	"	31	0
+	^	12	6
+	.	13	0
+	+	1	0
+	+	9	21
+	+	13	0
+	+	12	0
+	+	13	0
+
+> ~/repos/tesis/ScienceDirect_citations_1732552806747.txt
+	*	1732553243	0
+	"	1	0
+
+> ~/repos/OPERATIVO/DOCS-WRF/pemex/requirements.txt
+	*	1732507330	0
+	"	8	6
+	^	8	7
+	.	8	6
+	+	8	6
+
+> ~/repos/OPERATIVO/DOCS-WRF/places.sh
+	*	1732507277	0
+	"	1	0
+
+> ~/.Xresources
+	*	1732244563	0
+	"	6	17
+	^	6	18
+	.	6	17
+	+	6	17
+
+> ~/repos/diplomado_hpc/MPI/practicas/idntify_ex.c
+	*	1732035451	0
+	"	6	37
+	^	6	38
+	.	6	37
+	+	19	0
+	+	3	0
+	+	7	0
+	+	17	0
+	+	3	0
+	+	8	23
+	+	5	25
+	+	7	0
+	+	8	22
+	+	5	36
+	+	11	44
+	+	12	83
+	+	13	2
+	+	14	0
+	+	15	2
+	+	16	4
+	+	13	2
+	+	12	75
+	+	6	37
+
+> ~/repos/diplomado_hpc/MPI/practicas/verificar.c
+	*	1730699235	0
+	"	7	21
+	^	7	21
+	.	7	21
+	+	4	0
+	+	19	52
+	+	7	0
+	+	6	2
+	+	7	21
+
+> ~/repos/diplomado_hpc/MPI/practicas/thread_level.c
+	*	1730697880	0
+	"	20	0
+	^	20	1
+	.	20	0
+	+	20	0
+
+> ~/repos/diplomado_hpc/MPI/practicas/helloworld.c
+	*	1730697860	0
+	"	9	9
+	^	14	13
+	.	9	9
+	+	15	0
+	+	4	29
+	+	15	4
+	+	7	34
+	+	8	27
+	+	9	24
+	+	8	39
+	+	9	46
+	+	8	46
+	+	11	53
+	+	12	25
+	+	14	12
+	+	15	0
+	+	8	9
+	+	9	9
+
+> ~/repos/diplomado_hpc/MPI/practicas/master_worker.c
+	*	1730695104	0
+	"	18	68
+	^	18	69
+	.	18	68
+	+	5	15
+	+	20	0
+	+	18	68
+	+	20	0
+	+	16	9
+	+	4	0
+	+	8	0
+	+	10	14
+	+	18	0
+	+	21	0
+	+	17	19
+	+	16	24
+	+	19	0
+	+	20	29
+	+	23	0
+	+	18	68
+
+> ~/Documents/desarrollos/ruby/basics/mysql_root_gea_new_VM.txt
+	*	1730505766	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/Documents/desarrollos/ruby/basics/passwd_gen.rb
+	*	1730505557	0
+	"	5	9
+	^	5	10
+	.	5	9
+	+	5	9
+
+> ~/CUDA/device.cu
+	*	1729184337	0
+	"	37	0
+
+> ~/compilers
+	*	1729040771	0
+	"	51	25
+	^	50	32
+	.	51	25
+	+	7	47
+	+	50	31
+	+	51	25
+
+> ~/.config/kitty/kitty.conf
+	*	1728803532	0
+	"	3	25
+	^	9	30
+	.	9	29
+	+	8	68
+	+	10	0
+	+	8	0
+	+	5	13
+	+	6	19
+	+	7	18
+	+	5	11
+	+	8	0
+	+	9	29
+
+> ~/theme.conf
+	*	1728803181	0
+	"	24	14
+	^	24	15
+	.	24	14
+	+	1	27
+	+	24	14
+
+> ~/.ssh/known_hosts
+	*	1728604073	0
+	"	72	0
+	.	72	0
+	+	7	0
+	+	2	0
+	+	73	0
+	+	91	0
+	+	92	0
+	+	8	0
+	+	2	0
+	+	95	0
+	+	4	0
+	+	12	0
+	+	120	0
+	+	2	0
+	+	120	0
+	+	72	0
+
+> ~/.tmux.conf
+	*	1728602471	0
+	"	150	0
+	^	146	176
+	.	150	0
+	+	83	0
+	+	6	0
+	+	7	43
+	+	10	15
+	+	13	0
+	+	11	26
+	+	12	16
+	+	13	0
+	+	18	19
+	+	19	0
+	+	24	0
+	+	27	40
+	+	39	33
+	+	2	70
+	+	40	0
+	+	74	24
+	+	52	0
+	+	12	0
+	+	15	0
+	+	18	0
+	+	2	48
+	+	82	17
+	+	8	45
+	+	34	23
+	+	21	44
+	+	146	175
+	+	149	0
+	+	150	0
+
+> ~/bin/.config/i3/config
+	*	1728521792	0
+	"	1	0
+
+> ~/.ssh/known_hosts2
+	*	1728508342	0
+	"	1	0
+
+> ~/.ssh/authorized_keys
+	*	1728436590	0
+	"	4	0
+	^	4	1
+	.	4	0
+	+	3	177
+	+	4	171
+	+	4	0
+
+> ~/.config/alacritty/alacritty.toml
+	*	1728283677	0
+	"	33	16
+	^	33	17
+	.	33	16
+	+	33	16
+
+> /tmp/quetzal.sh
+	*	1728261524	0
+	"	57	0
+
+> ~/.vimrc
+	*	1727241910	0
+	"	19	4
+	.	20	0
+	+	3	0
+	+	5	0
+	+	4	17
+	+	3	0
+	+	4	1
+	+	20	8
+	+	20	0
+
+> ~/Documents/desarrollos/ruby/basics/notificaciones.servidores@atmosfera.unam.mx.txt
+	*	1727133396	0
+	"	1	0
+	^	1	16
+	.	1	0
+	+	1	0
+
+> ~/.slurm
+	*	1726192735	0
+	"	57	60
+	^	57	61
+	.	57	60
+	+	10	21
+	+	57	60
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.6.0/README.md
+	*	1724974271	0
+	"	8	37
+	^	8	38
+	.	8	37
+	+	3	73
+	+	4	58
+	+	5	38
+	+	7	49
+	+	12	82
+	+	16	46
+	+	33	5
+	+	29	3
+	+	35	26
+	+	41	4
+	+	40	75
+	+	39	21
+	+	38	4
+	+	31	46
+	+	29	0
+	+	27	22
+	+	38	24
+	+	20	0
+	+	22	67
+	+	37	12
+	+	51	4
+	+	45	8
+	+	49	108
+	+	63	4
+	+	59	12
+	+	57	349
+	+	57	189
+	+	59	0
+	+	58	0
+	+	55	4
+	+	61	77
+	+	64	66
+	+	83	2
+	+	81	27
+	+	109	0
+	+	84	113
+	+	84	121
+	+	85	65
+	+	106	2
+	+	88	8
+	+	32	35
+	+	103	0
+	+	107	0
+	+	110	114
+	+	111	0
+	+	112	4
+	+	118	0
+	+	117	1
+	+	114	95
+	+	117	2
+	+	113	39
+	+	116	2
+	+	89	0
+	+	23	120
+	+	92	101
+	+	90	10
+	+	94	61
+	+	93	60
+	+	96	36
+	+	103	65
+	+	97	69
+	+	103	0
+	+	28	118
+	+	30	119
+	+	97	58
+	+	121	0
+	+	102	9
+	+	101	36
+	+	105	9
+	+	91	101
+	+	5	48
+	+	8	37
+
+> ~/Documents/desarrollos/ruby/basics/efrain_chalchi.txt
+	*	1724947953	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
+
+> ~/repos/bash/utils/telegram-send.all
+	*	1724739498	0
+	"	50	12
+	^	50	13
+	.	50	12
+	+	50	12
+
+> ~/.config/systemd/user/default.target.wants/docker.service
+	*	1724269769	0
+	"	1	0
+
+> ~/.config/systemd/user/docker.service.d/override.conf
+	*	1724217184	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> /tmp/OPERATIVO2/WRF.4.5.2_15/meteogramas/scripts/graf_meteogramas_2022_2.py
+	*	1723762423	0
+	"	1	0
+
+> ~/otw_bandit.md
+	*	1723705586	0
+	"	59	16
+	^	58	19
+	.	58	18
+	+	3	19
+	+	59	17
+	+	55	9
+	+	57	27
+	+	58	18
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.5.2/README.md
+	*	1723583026	0
+	"	640	81
+	^	640	82
+	.	640	81
+	+	28	24
+	+	75	1
+	+	34	18
+	+	75	2
+	+	33	0
+	+	31	62
+	+	4	4
+	+	28	23
+	+	35	18
+	+	36	0
+	+	28	22
+	+	73	25
+	+	36	0
+	+	18	0
+	+	4	30
+	+	14	3
+	+	14	0
+	+	7	32
+	+	14	114
+	+	9	70
+	+	14	0
+	+	9	114
+	+	14	0
+	+	28	47
+	+	77	48
+	+	77	0
+	+	76	0
+	+	8	19
+	+	12	106
+	+	11	61
+	+	12	62
+	+	11	0
+	+	13	0
+	+	78	0
+	+	80	0
+	+	79	2
+	+	629	2
+	+	77	112
+	+	1	69
+	+	3	34
+	+	16	50
+	+	3	36
+	+	30	79
+	+	632	0
+	+	635	0
+	+	758	0
+	+	868	2
+	+	758	0
+	+	639	10
+	+	754	8
+	+	753	29
+	+	756	36
+	+	4	0
+	+	16	2
+	+	17	0
+	+	30	2
+	+	31	62
+	+	33	0
+	+	32	0
+	+	631	2
+	+	632	15
+	+	633	0
+	+	870	48
+	+	632	24
+	+	642	0
+	+	752	74
+	+	640	81
+
+> ~/Desktop/mydesk/Diplomado_CAR-DGTIC_2023/Designing_Building_Applications_for_Extreme_Scale_Systems/URL.md
+	*	1723579454	0
+	"	3	51
+	^	3	52
+	.	3	51
+	+	1	48
+	+	2	58
+	+	3	51
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.5.2/configure.wrf_4.5.2._66.ok
+	*	1723493061	0
+	"	156	24
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.5.2/configure.wrf_4.5.2.ok
+	*	1723492901	0
+	"	154	24
+	.	124	0
+	+	124	0
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.2.1-120/configure.wrf
+	*	1723060115	0
+	"	293	0
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.2.1-120/configure.wrf-66
+	*	1723060048	0
+	"	292	0
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.5.2/tiempo_ejecucion_wrf.exe.md
+	*	1722996403	0
+	"	1	0
+	^	57	25
+	.	57	24
+	+	63	34
+	+	63	0
+	+	64	0
+	+	62	0
+	+	1	63
+	+	7	3
+	+	58	2
+	+	16	110
+	+	9	13
+	+	57	24
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.5.2/.git/config
+	*	1722995061	0
+	"	1	0
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.5.2/.gitignore
+	*	1722982044	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.6.0/.git/config
+	*	1722476723	0
+	"	7	25
+	^	7	26
+	.	7	25
+	+	7	25
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.2.1-120/.git/config
+	*	1722476631	0
+	"	7	26
+	^	7	27
+	.	7	26
+	+	7	26
+
+> ~/repos/OPERATIVO/DOCS-WRF/modelo/wrf-4.2.1-120/README.md
+	*	1722453877	0
+	"	24	74
+	^	24	75
+	.	24	74
+	+	4	72
+	+	5	27
+	+	3	70
+	+	4	10
+	+	5	39
+	+	7	13
+	+	7	26
+	+	8	7
+	+	11	0
+	+	13	14
+	+	22	0
+	+	21	16
+	+	24	74
+
+> ~/repos/cv/cv2023-diplomado.sp.tex
+	*	1722300068	0
+	"	175	99
+	^	174	24
+	.	174	36
+	+	71	84
+	+	102	64
+	+	102	149
+	+	109	78
+	+	111	114
+	+	141	46
+	+	174	36
+
+> ~/Documents/desarrollos/ruby/basics/imss_bienestar_cognus@gmail.com.txt
+	*	1720562673	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/repos/bash/utils/kill_procs_user.sh
+	*	1719353053	0
+	"	4	1
+	^	4	2
+	.	4	1
+	+	3	6
+	+	6	72
+	+	4	10
+	+	6	31
+	+	5	81
+	+	6	0
+	+	5	14
+	+	4	1
+
+> ~/.wgetrc
+	*	1718220671	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/repos/bash/utils/default.post
+	*	1717625919	0
+	"	53	0
+	^	8	20
+	.	8	19
+	+	8	19
+
+> ~/repos/bash/utils/snippets.sh
+	*	1715843692	0
+	"	4	0
+	^	4	0
+	.	4	0
+	+	23	1
+	+	3	18
+	+	11	4
+	+	4	0
+
+> ~/repos/bash/utils/generar_fechas_anteriores.sh
+	*	1715111098	0
+	"	20	9
+	^	4	22
+	.	3	9
+	+	20	140
+	+	17	56
+	+	4	21
+	+	3	9
+
+> ~/repos/tesis/SRC/fig/2024/scripts/extrae_series_datos_mensuales.py
+	*	1715049002	0
+	"	13	64
+	^	13	65
+	.	13	64
+	+	13	64
