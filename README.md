@@ -6,3 +6,4 @@
 2. Vim
 3. Bash
 4. Python
+5. i3
